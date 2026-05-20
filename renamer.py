@@ -1,5 +1,5 @@
 """
-This script renames files in a filder 
+This script renames files in a folder 
 """
 
 # import os to interact with the operating system 
