@@ -6,7 +6,7 @@ This script renames files in a filder
 import os 
 
 #set a folder path and a variable to read the files
-folder_path = "/Users/foladeakhibi/desktop/messy-folder/images"
+folder_path = ""
 files = os.listdir(folder_path)
 
 #set a base name to use in renaming the files 
