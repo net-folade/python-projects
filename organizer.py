@@ -1,6 +1,4 @@
 """
-file_organizer.py
-
 This script organizes files in a folder by file type.
 It moves images, documents, and spreadsheets into separate folders.
 """
